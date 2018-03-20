@@ -28,7 +28,7 @@ De esta necesidad de ‘organizar’ de forma más equitativa la clase, surge el
 ### Equipo y Roles
 
 - [ ] TODO: Rellenar con nuestros datos
- - [Aida Adalaber @Alienah](//github.com/Alienah) (Contributor - ROL)
+ - [Aida Albarrán @Alienah](//github.com/Alienah) (Contributor - Frontend/Firebase)
  - [Mónica Aguado @MoniAguado](//github.com/MoniAguado/) (Contributor - ROL)
  - [Jorge Baumann @baumannzone](//github.com/baumannzone) (Contributor - ROL)
  - [Carlos Azaustre @carlosazaustre](//github.com/carlosazaustre) (Contributor - Frontend/Firebase)
